@@ -36,6 +36,8 @@ This project builds a machine learning model using `sklearn` and linear regressi
 - **Jupyter Notebook**, **Visual Studio Code**, and **PyCharm** as IDEs.
 - **Python Flask** for building the server.
 - **HTML/CSS/JavaScript** for the user interface.
+- **Nginx** for web server setup.
+- **AWS EC2** for cloud deployment.
 
 ---
 
