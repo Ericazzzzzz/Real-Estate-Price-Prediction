@@ -33,7 +33,6 @@ This project builds a machine learning model using `sklearn` and linear regressi
 - **Numpy and Pandas** for data cleaning.
 - **Matplotlib** for data visualization.
 - **Scikit-learn** for model building.
-- **Jupyter Notebook**, **Visual Studio Code**, and **PyCharm** as IDEs.
 - **Python Flask** for building the server.
 - **HTML/CSS/JavaScript** for the user interface.
 - **Nginx** for web server setup.
